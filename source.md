@@ -5,9 +5,8 @@ class: center, middle
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
-
-主页: https://github.com/author
+#### 钟秉辰 (pj4182876@126.com）
+主页: https://github.com/zhongbingchen
 
 ---
 
@@ -15,9 +14,9 @@ class: center, middle
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 来自北大化院
+#### &nbsp; &nbsp; 1.2 计算机渣渣
+#### &nbsp; &nbsp; 1.3 请多多包涵
 
 ### 2. 第二部分
 
@@ -39,7 +38,7 @@ int main()
 
 ## 插图
 
-** Ada Lovelace **
+** hello 助教 **
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
 
